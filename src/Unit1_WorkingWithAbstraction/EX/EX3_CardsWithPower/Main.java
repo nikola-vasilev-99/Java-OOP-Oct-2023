@@ -4,11 +4,13 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner (System.in);
+        Scanner scanner = new Scanner(System.in);
 
-        for (int i = 0; i < 5; i++) {
-            System.out.println("Hello");
+        String rank = scanner.nextLine();
+        String suit = scanner.nextLine();
 
-        }
+        Card card = new Card(CardRanks.valueOf(rank), CardSuits.valueOf(suit));
+        System.out.printf("Card name: %s of %s; Card power: %d", card.getCardRank(), card.getCardSuit(), card.getPower());
+
     }
 }
