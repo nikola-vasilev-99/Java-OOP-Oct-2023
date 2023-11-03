@@ -1,4 +1,4 @@
-package Unit2_Encapsulation.EX2SalaryIncrease;
+package Unit2_Encapsulation.EX2_SalaryIncrease;
 
 public class Person {
     private String firstName;

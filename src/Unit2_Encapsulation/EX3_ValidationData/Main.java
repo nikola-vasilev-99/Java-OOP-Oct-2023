@@ -1,7 +1,5 @@
 package Unit2_Encapsulation.EX3_ValidationData;
 
-import Unit2_Encapsulation.EX2SalaryIncrease.Person;
-
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;

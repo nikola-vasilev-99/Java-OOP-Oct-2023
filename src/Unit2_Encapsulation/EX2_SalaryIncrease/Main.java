@@ -1,4 +1,4 @@
-package Unit2_Encapsulation.EX2SalaryIncrease;
+package Unit2_Encapsulation.EX2_SalaryIncrease;
 
 import java.io.IOException;
 import java.util.ArrayList;
