@@ -1,4 +1,4 @@
-package Unit4_InterfacesAndAbstraction.TestPAckage;
+package Unit4_InterfacesAndAbstraction.TestPackage;
 
 import java.util.Scanner;
 

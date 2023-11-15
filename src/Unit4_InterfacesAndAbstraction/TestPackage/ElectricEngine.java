@@ -1,4 +1,4 @@
-package Unit4_InterfacesAndAbstraction.TestPAckage;
+package Unit4_InterfacesAndAbstraction.TestPackage;
 
 public class ElectricEngine implements Engine{
     @Override
