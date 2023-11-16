@@ -1,4 +1,4 @@
-package animals;
+package Unit3_Inheritance.animals;
 
 public abstract class Animal {
     private String name;

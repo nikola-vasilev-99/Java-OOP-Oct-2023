@@ -1,4 +1,4 @@
-package animals;
+package Unit3_Inheritance.animals;
 
 public class Tomcat extends Cat{
     public Tomcat(String name, int age) {

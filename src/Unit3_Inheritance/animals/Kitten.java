@@ -1,4 +1,4 @@
-package animals;
+package Unit3_Inheritance.animals;
 
 public class Kitten extends Cat{
     public Kitten(String name, int age) {

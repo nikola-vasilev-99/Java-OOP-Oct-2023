@@ -18,6 +18,6 @@ public class Main {
                 car.getHorsePower()));
         System.out.println(car.toString());
     }
-
+//75outof100
 
 }
