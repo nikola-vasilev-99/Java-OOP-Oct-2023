@@ -1,4 +1,4 @@
-package CarShopExtended;
+package Unit4_InterfacesAndAbstraction.CarShopExtended;
 
 public interface Car {
     Integer TIRES = 4;
